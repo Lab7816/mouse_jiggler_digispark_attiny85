@@ -17,3 +17,8 @@ This is a simple implementation of a cursor engine (mouse jiggler). Here you wil
 ![text](https://github.com/Lab7816/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/track_rec_bought_jiggler.png)
 
 #### As can be seen, the movement is deterministic.
+
+#### Writed uploaded with standart lib:
+![text](https://github.com/Lab7816/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/01.png)
+
+![text](https://github.com/Lab7816/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/02.png)
